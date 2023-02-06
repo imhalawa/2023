@@ -1,3 +1,4 @@
-[submodule "10. Testing/Unit-Testing/Unit-Testing-With-C#-Udemy"]
-	path = "10. Testing/Unit-Testing/Unit-Testing-With-C#-Udemy"
-	url = git@github.com:imhalawa/Unit-Testing-with-C---Udemy.git
+
+[submodule "10. Testing/Unit-Testing/Unit-Testing-With-Csharp-Udemy"]
+	path = 10. Testing/Unit-Testing/Unit-Testing-With-Csharp-Udemy
+	url = ./10. Testing/Unit-Testing/Unit-Testing-With-Csharp-Udemy/
